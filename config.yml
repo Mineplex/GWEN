@@ -557,5 +557,5 @@ kill_loggers: false
 # Should G.W.E.N. log events to a file?
 log_file: true
 
-# Should AAC log events to the console?
+# Should G.W.E.N. log events to the console?
 log_console: true
